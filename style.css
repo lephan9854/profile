@@ -98,6 +98,7 @@ html {
     font-weight: bold;
     text-align: end;
     position: static;
+    margin-bottom: 10px;
   }
 
   @media screen and (max-width: 435px){
