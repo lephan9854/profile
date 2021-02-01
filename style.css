@@ -68,7 +68,7 @@ html {
   .cover {
     max-height: 180px;
     height: 180px;
-    background-image: url("images/he4.png");
+    background-image: url("images/he10.png");
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Do not repeat the image */
     background-size: cover;
@@ -76,6 +76,10 @@ html {
     border-bottom: 1px #eeeeee;
     box-shadow: 0px 2px 1px 1px #eee;
     z-index: 2;
+  }
+
+  .cover img{
+    max-width: 100%;
   }
   .dot {
     height: 20px;
